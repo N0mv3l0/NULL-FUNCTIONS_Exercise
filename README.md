@@ -1,0 +1,2 @@
+# NULL-FUNCTIONS_Exercise
+Exercise on NULL FUNCTIONS
