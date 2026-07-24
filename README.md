@@ -4,9 +4,9 @@ Extra practice exercise from BrightLearn portal
 
 The repository includes the following files:
 
---The original exercise questions downloaded from the Brighlearn portal.
+--The original exercise questions downloaded from the Brightlearn portal.
 
--- A pdf of solutions 
+-- A pdf copy containing the exxercise solutions 
 
 -- The SQL script of class notes of NULL FUNCTIONS.
 
@@ -18,7 +18,7 @@ NULL FUNCTIONS: -- Help us to deal with NULL values from our dataset
 
 How do we know that we have a NULL value in the data?
 
-USE IS NULL FUNCTION.
+USE 'IS NULL' FUNCTION.
 
 -- This function helps us to find the NULL value.
 -- OR a row of a specific column that has a NULL value
